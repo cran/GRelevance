@@ -1,0 +1,15 @@
+aae7a385e61967a715f239280f9019f4 *DESCRIPTION
+0a4f32f2e6e36e131bf8f1ba625c1e2c *LICENSE
+f082fdab8fc9778b3ef85d2f49e75003 *NAMESPACE
+400c05e64e627cc1785677cf4dd9adb7 *R/Hpath.R
+ed466504a25801bd9622e25c51bbd867 *R/Mpermut.R
+538014ede62de2ec80ea289c40ed95ac *R/Weight.R
+49cf535fadd51ceb813db23de5c135c0 *R/Wpermut.R
+7cc0987cde38cd913682d8b983b1bfba *R/compbypath.R
+53bd30632bf6c4394e86fa81ecc00b54 *R/path.kruskal.R
+b0d21814c4331bd9053ec20681373591 *man/Hpath.Rd
+fdfa60b2b18282cc89160b286c3cd8e8 *man/Mpermut.Rd
+42a0dc3ce8b7a9f1c85cb81bca063d80 *man/Weight.Rd
+3d0e65e1179a257baf48c684d0687f17 *man/Wpermut.Rd
+0ae7fc5d590ab615ead1778c9a91e485 *man/compbypath.Rd
+b98f744bde83775af09f0cbac676c914 *man/path.kruskal.Rd
